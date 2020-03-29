@@ -1,4 +1,4 @@
-# vlnn-tutorial README
+# vlnn-tutorial README ![Node.js CI](https://github.com/vlnn/vs-code-ext-tutorial/workflows/Node.js%20CI/badge.svg?branch=master)
 
 This is the simple learning exersize rather then an useful extension. It may become useful by itself though!
 
